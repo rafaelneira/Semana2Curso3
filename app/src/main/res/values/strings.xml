@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda de Contactos</string>
+    <string name="txtNombre">Ingrese su nombre</string>
+    <string name="txtFecha">Fecha</string>
+    <string name="txtTel">Ingrese su telefono</string>
+    <string name="txtMail">Ingrese su email</string>
+    <string name="txtDesc">Descripcion del contacto</string>
+    <string name="btnSig">Siguiente</string>
+
+    <string name="activityDetalle">Detalle</string>
+    <string name="btnAtras">Atras</string>
+
+</resources>
